@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **dAnOmiteTE**, an innovator and project manager exploring the vast world of coding.
+I'm **dAnOmite**, an innovator and project manager exploring the vast world of coding.
 
 I've been using code languages since I was a kid and embrace the intersection of humans and machines. Let's connect and collaborate!
 
@@ -15,12 +15,17 @@ I am currently diving into various programming languages and technologies and am
 ## Top Projects
 
 ## GitHub Stats
+
 ### GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dAnOmiteTE&show_icons=true&theme=radical)
 
 - **Public Repositories:** 2
+  
 - **Followers:** 0
+  
 - **Following:** 0
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dAnOmiteTE&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
